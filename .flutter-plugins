@@ -1,9 +1,16 @@
 # This is a generated file; do not edit or check into version control.
-flutter_web_auth_2=/opt/hostedtoolcache/flutter/stable-3.7.5-x64/.pub-cache/hosted/pub.dev/flutter_web_auth_2-2.0.4/
-url_launcher=/opt/hostedtoolcache/flutter/stable-3.7.5-x64/.pub-cache/hosted/pub.dev/url_launcher-6.1.10/
-url_launcher_android=/opt/hostedtoolcache/flutter/stable-3.7.5-x64/.pub-cache/hosted/pub.dev/url_launcher_android-6.0.24/
-url_launcher_ios=/opt/hostedtoolcache/flutter/stable-3.7.5-x64/.pub-cache/hosted/pub.dev/url_launcher_ios-6.1.1/
-url_launcher_linux=/opt/hostedtoolcache/flutter/stable-3.7.5-x64/.pub-cache/hosted/pub.dev/url_launcher_linux-3.0.3/
-url_launcher_macos=/opt/hostedtoolcache/flutter/stable-3.7.5-x64/.pub-cache/hosted/pub.dev/url_launcher_macos-3.0.3/
-url_launcher_web=/opt/hostedtoolcache/flutter/stable-3.7.5-x64/.pub-cache/hosted/pub.dev/url_launcher_web-2.0.15/
-url_launcher_windows=/opt/hostedtoolcache/flutter/stable-3.7.5-x64/.pub-cache/hosted/pub.dev/url_launcher_windows-3.0.4/
+desktop_webview_window=/Users/vongohren/.pub-cache/hosted/pub.dev/desktop_webview_window-0.2.3/
+flutter_web_auth_2=/Users/vongohren/.pub-cache/hosted/pub.dev/flutter_web_auth_2-4.1.0/
+path_provider=/Users/vongohren/.pub-cache/hosted/pub.dev/path_provider-2.1.5/
+path_provider_android=/Users/vongohren/.pub-cache/hosted/pub.dev/path_provider_android-2.2.15/
+path_provider_foundation=/Users/vongohren/.pub-cache/hosted/pub.dev/path_provider_foundation-2.4.1/
+path_provider_linux=/Users/vongohren/.pub-cache/hosted/pub.dev/path_provider_linux-2.2.1/
+path_provider_windows=/Users/vongohren/.pub-cache/hosted/pub.dev/path_provider_windows-2.3.0/
+url_launcher=/Users/vongohren/.pub-cache/hosted/pub.dev/url_launcher-6.3.1/
+url_launcher_android=/Users/vongohren/.pub-cache/hosted/pub.dev/url_launcher_android-6.3.14/
+url_launcher_ios=/Users/vongohren/.pub-cache/hosted/pub.dev/url_launcher_ios-6.3.2/
+url_launcher_linux=/Users/vongohren/.pub-cache/hosted/pub.dev/url_launcher_linux-3.2.1/
+url_launcher_macos=/Users/vongohren/.pub-cache/hosted/pub.dev/url_launcher_macos-3.2.2/
+url_launcher_web=/Users/vongohren/.pub-cache/hosted/pub.dev/url_launcher_web-2.4.0/
+url_launcher_windows=/Users/vongohren/.pub-cache/hosted/pub.dev/url_launcher_windows-3.1.4/
+window_to_front=/Users/vongohren/.pub-cache/hosted/pub.dev/window_to_front-0.0.3/
